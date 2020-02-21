@@ -1,6 +1,9 @@
 # DistributedX
-##topics of distributed systems
+## topics of distributed systems
 overview
-data structure
+basic data structure
+no-sql
 consensus
+p2p
+blockchian
 storage
