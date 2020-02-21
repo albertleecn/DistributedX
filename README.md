@@ -1,13 +1,37 @@
 # DistributedX
+
 ## topics of distributed systems
+
 ### overview
+Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36.
+
+Pritchett, D., BASE: An Acid Alternative. 2008. 6(3): p. 48-55.
+
+
 ### basic data structure
+
 ### no-sql
+Cattell, R., Scalable SQL and NoSQL data stores. Acm Sigmod Record, 2011. 39(4): p. 12-27.
+
 ### consensus
+
 #### The Byzantine Generals Problem
 Lamport, L., R. Shostak, and M. Pease, The Byzantine Generals Problem. ACM Trans. Program. Lang. Syst., 1982. 4(3): p. 382-401.
+
 Castro, M., B. Liskov, and A. Usenix Assoc; Usenix Assoc; Usenix, Practical Byzantine fault tolerance. Usenix Association Proceedings of the Third Symposium on Operating Systems Design and Implementation. 1999. 173-186.
 
+#### Paxos
+Lamport, L., The part-time parliament. 1998: ACM. 133-169.
+
 ### p2p
+Stoica, I., et al., Chord: a scalable peer-to-peer lookup protocol for Internet applications. IEEE ACM Transactions on Networking, 2003. 11(1): p. 17-32.
+
 ### blockchian
+Nakamoto, S., Bitcoin: A peer-to-peer electronic cash system. Consulted, 2008.
+
+Wood, G., ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL DRAFT - UNDER REVIEW. 2014.
+
 ### storage
+
+### encryption
+
