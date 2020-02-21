@@ -9,9 +9,16 @@ Pritchett, D., BASE: An Acid Alternative. 2008. 6(3): p. 48-55.
 
 
 ### basic data structure
+LSM-Tree
 
-### no-sql
+SSTable
+
+### Transaction
+
+### noSQL
 Cattell, R., Scalable SQL and NoSQL data stores. Acm Sigmod Record, 2011. 39(4): p. 12-27.
+
+### newSQL
 
 ### consensus
 
@@ -23,6 +30,15 @@ Castro, M., B. Liskov, and A. Usenix Assoc; Usenix Assoc; Usenix, Practical Byza
 #### Paxos
 Lamport, L., The part-time parliament. 1998: ACM. 133-169.
 
+Lamport, L., Paxos Made Simple. ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 121, December 2001), 2001: p. 51-58.
+
+### bigdata
+Ghemawat, S., H. Gobioff, and S.T. Leung, The Google file system. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.
+
+Chang, F., et al., Bigtable:A Distributed Storage System for Structured Data. Acm Transactions on Computer Systems, 2008. 26(2): p. 1-26.
+
+Dean, J. and S. Ghemawat. MapReduce: simplified data processing on large clusters. in Conference on Symposium on Opearting Systems Design & Implementation. 2008.
+
 ### p2p
 Stoica, I., et al., Chord: a scalable peer-to-peer lookup protocol for Internet applications. IEEE ACM Transactions on Networking, 2003. 11(1): p. 17-32.
 
@@ -31,7 +47,13 @@ Nakamoto, S., Bitcoin: A peer-to-peer electronic cash system. Consulted, 2008.
 
 Wood, G., ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL DRAFT - UNDER REVIEW. 2014.
 
-### storage
+### security
+Charikar, M., J. Steinhardt, and G. Valiant. Learning from untrusted data. in ACM Sigact Symposium on Theory of Computing. 2017.
 
-### encryption
+Agrawal, R., et al. Order preserving encryption for numeric data. in ACM SIGMOD International Conference on Management of Data. 2004.
+
+### storage
+Benet, J., IPFS - Content Addressed, Versioned, P2P File System. Eprint Arxiv, 2014.
+
+
 
