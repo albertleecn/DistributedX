@@ -1,7 +1,7 @@
 # DistributedX
 ## lectures
 
-###introduction
+### introduction
 [DDB introduction](./lectures/lecture01DDbSystemIntro.pdf)
 
 ## topics of distributed systems
@@ -11,6 +11,13 @@
 Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36.
 
 Pritchett, D., BASE: An Acid Alternative. 2008. 6(3): p. 48-55.
+
+### bigdata
+[Ghemawat, S., H. Gobioff, and S.T. Leung, The Google file system. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.](./papers/GoogleFileSystem_ghemawat.pdf)
+
+[Chang, F., et al., Bigtable:A Distributed Storage System for Structured Data. Acm Transactions on Computer Systems, 2008. 26(2): p. 1-26.](./papers/BigtableADistributedStorageSystemforStructuredDatachang.pdf)
+
+[Dean, J. and S. Ghemawat. MapReduce: simplified data processing on large clusters. in Conference on Symposium on Opearting Systems Design & Implementation. 2008.](./papers/deanMapReduce.pdf)
 
 
 ### basic data structure
@@ -36,13 +43,6 @@ Castro, M., B. Liskov, and A. Usenix Assoc; Usenix Assoc; Usenix, Practical Byza
 Lamport, L., The part-time parliament. 1998: ACM. 133-169.
 
 Lamport, L., Paxos Made Simple. ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 121, December 2001), 2001: p. 51-58.
-
-### bigdata
-[Ghemawat, S., H. Gobioff, and S.T. Leung, The Google file system. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.](./papers/GoogleFileSystem_ghemawat.pdf)
-
-[Chang, F., et al., Bigtable:A Distributed Storage System for Structured Data. Acm Transactions on Computer Systems, 2008. 26(2): p. 1-26.](./papers/BigtableADistributedStorageSystemforStructuredDatachang.pdf)
-
-[Dean, J. and S. Ghemawat. MapReduce: simplified data processing on large clusters. in Conference on Symposium on Opearting Systems Design & Implementation. 2008.](./papers/deanMapReduce.pdf)
 
 ### p2p
 Stoica, I., et al., Chord: a scalable peer-to-peer lookup protocol for Internet applications. IEEE ACM Transactions on Networking, 2003. 11(1): p. 17-32.
