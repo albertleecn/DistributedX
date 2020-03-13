@@ -1,6 +1,9 @@
 # DistributedX
 ## lectures
 
+### Review relational databases
+[Review relational databases](./lectures/lecture002DbSystemRDbModel.pdf)
+
 ### introduction
 [DDB introduction](./lectures/lecture01DDbSystemIntro.pdf)
 
