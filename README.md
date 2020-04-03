@@ -1,6 +1,10 @@
 # DistributedX
 ## lectures
 
+#### The Byzantine Generals Problem
+
+#### Bitcoin & Blockchain
+
 ### Review relational databases
 [Review relational databases](./lectures/lecture002DbSystemRDbModel.pdf)
 
