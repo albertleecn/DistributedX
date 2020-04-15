@@ -1,9 +1,19 @@
 # DistributedX
+
+## tasks
+
+### task 1
+Read the following paper and finish one report: write all the steps using OM(3).
+
+Lamport, et al. "The Byzantine Generals Problem." Acm Transactions on Programming Languages & Systems 4.3(1982):382-401.
+
 ## lectures
 
 #### The Byzantine Generals Problem
+The Byzantine Generals Problem
 
 #### Bitcoin & Blockchain
+Bitcoin: A peer-to-peer electronic cash system
 
 ### Review relational databases
 [Review relational databases](./lectures/lecture002DbSystemRDbModel.pdf)
