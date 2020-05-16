@@ -9,6 +9,10 @@ Lamport, et al. "The Byzantine Generals Problem." Acm Transactions on Programmin
 
 ## lectures
 
+
+#### The Paxos Consensus
+[The The Paxos Consensus](./papers/lamport-paxos.pdf)
+
 #### The Byzantine Generals Problem
 The Byzantine Generals Problem
 
