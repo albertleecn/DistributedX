@@ -9,6 +9,8 @@ Lamport, et al. "The Byzantine Generals Problem." Acm Transactions on Programmin
 
 ## lectures
 
+#### The Raft Consensus
+[The The Raft Consensus](./lectures/raft_paper.pdf)
 
 #### The Paxos Consensus
 [The The Paxos Consensus](./papers/lamport-paxos.pdf)
