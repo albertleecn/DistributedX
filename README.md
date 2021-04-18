@@ -7,7 +7,10 @@ Read the following paper and finish one report: write all the steps using OM(3).
 
 Lamport, et al. "The Byzantine Generals Problem." Acm Transactions on Programming Languages & Systems 4.3(1982):382-401.
 
-## lectures
+## Lecture Schedule
+
+### introduction
+[DDB introduction](./lectures/lecture01DDbSystemIntro.pdf)
 
 #### The Raft Consensus
 [The The Raft Consensus](./lectures/raft_paper.pdf)
@@ -24,8 +27,6 @@ Bitcoin: A peer-to-peer electronic cash system
 ### Review relational databases
 [Review relational databases](./lectures/lecture002DbSystemRDbModel.pdf)
 
-### introduction
-[DDB introduction](./lectures/lecture01DDbSystemIntro.pdf)
 
 ## topics of distributed systems
 `Please read the following bigdata topics`
