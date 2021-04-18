@@ -22,8 +22,6 @@ Nakamoto, S., [Bitcoin: A peer-to-peer electronic cash system](./resources/Bitco
 ### Bitcoin & Blockchain II
 Wood, G., [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL DRAFT - UNDER REVIEW](./resources/ethereum_yellowpaper.pdf). 2014.
 
-
-
 ### The Byzantine Generals Problem
 [Lamport, L., R. Shostak, and M. Pease, The Byzantine Generals Problem. ACM Trans. Program. Lang. Syst., 1982. 4(3): p. 382-401.](./resources/lamport82byzantine.pdf)
 [ppt](./resources/lecture01TheByzantineGeneralsProblem.pdf)
@@ -31,8 +29,7 @@ Wood, G., [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL
 Castro, M., B. Liskov, and A. Usenix Assoc; Usenix Assoc; Usenix, Practical Byzantine fault tolerance. Usenix Association Proceedings of the Third Symposium on Operating Systems Design and Implementation. 1999. 173-186.
 
 ### The Paxos Consensus
-[The The Paxos Consensus](./papers/lamport-paxos.pdf)
-Lamport, L., The part-time parliament. 1998: ACM. 133-169.
+Lamport, L.,[The part-time parliament](./papers/lamport-paxos.pdf). 1998: ACM. 133-169.
 
 Lamport, L., Paxos Made Simple. ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 121, December 2001), 2001: p. 51-58.
 
