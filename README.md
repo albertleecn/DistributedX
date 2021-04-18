@@ -14,7 +14,7 @@ Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2)
 Pritchett, D., BASE: An Acid Alternative. 2008. 6(3): p. 48-55.
 
 ### p2p
-Stoica, I., et al., Chord: a scalable peer-to-peer lookup protocol for Internet applications. IEEE ACM Transactions on Networking, 2003. 11(1): p. 17-32.
+Stoica, I., et al., [Chord: a scalable peer-to-peer lookup protocol for Internet applications](./resources/chord_paper-ton.pdf). IEEE ACM Transactions on Networking, 2003. 11(1): p. 17-32.
 
 #### Bitcoin & Blockchain
 Nakamoto, S., Bitcoin: A peer-to-peer electronic cash system. Consulted, 2008.
