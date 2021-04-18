@@ -24,7 +24,7 @@ Wood, G., [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL
 
 ### The Byzantine Generals Problem
 [Lamport, L., R. Shostak, and M. Pease, The Byzantine Generals Problem. ACM Trans. Program. Lang. Syst., 1982. 4(3): p. 382-401.](./resources/lamport82byzantine.pdf)
-[ppt](./resources/lecture01TheByzantineGeneralsProblem.pdf)
+[Lecture](./resources/lecture01TheByzantineGeneralsProblem.pdf)
 
 Castro, M., B. Liskov, and A. Usenix Assoc; Usenix Assoc; Usenix, Practical Byzantine fault tolerance. Usenix Association Proceedings of the Third Symposium on Operating Systems Design and Implementation. 1999. 173-186.
 
