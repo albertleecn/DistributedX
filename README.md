@@ -26,7 +26,7 @@ Wood, G., [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER FINAL
 [Lamport, L., R. Shostak, and M. Pease, The Byzantine Generals Problem. ACM Trans. Program. Lang. Syst., 1982. 4(3): p. 382-401.](./resources/lamport82byzantine.pdf)
 [Lecture](./resources/lecture01TheByzantineGeneralsProblem.pdf)
 
-Castro, M., B. Liskov, and A. [Practical Byzantine fault tolerance](./resources/‘Castro-1999-Practical Byzantine fault toleranc’.pdf). Usenix Association Proceedings of the Third Symposium on Operating Systems Design and Implementation. 1999. 173-186.
+Castro, M. and B. Liskov. [Practical Byzantine fault tolerance](./resources/Castro-1999-Practical Byzantine fault toleranc.pdf). Usenix Association Proceedings of the Third Symposium on Operating Systems Design and Implementation. 1999. 173-186.
 
 ### The Paxos Consensus
 Lamport, L.,[The part-time parliament](./papers/lamport-paxos.pdf). 1998: ACM. 133-169.
